@@ -1,7 +1,7 @@
 # php_stream_service
  PHP with MySQL 2023 Build Amazing Streaming Service
 
-# *anime-main file is in /xampp/htdocs.
+# *All anime-main file is in /xampp/htdocs.
 Apache and MySQL need to be start in xampp to run the files.
 
 ## Software used in development process:
